@@ -1,0 +1,13 @@
+Words         Scores
+-------------------
+Hippo           12  
+Platypus        15  
+insulation      0   
+Scrabble        14  
+MATH 1110       9   
+artificial      0   
+intelligence    0   
+machine         14  
+learning        9   
+
+Total           73
